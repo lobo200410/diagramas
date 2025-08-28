@@ -1,0 +1,85 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="f0eXjMuf59DN8M-Cis5C">
+    <mxGraphModel dx="1426" dy="841" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="M7sHQn6iPLXkSEFRILRe-1" value="Resguardo de aula virtuales del ciclo anterior Blackboard" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="24" y="28" width="328.75" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="M7sHQn6iPLXkSEFRILRe-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="M7sHQn6iPLXkSEFRILRe-1">
+          <mxGeometry y="30" width="328.75" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="M7sHQn6iPLXkSEFRILRe-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="M7sHQn6iPLXkSEFRILRe-2">
+          <mxGeometry width="76" height="26" as="geometry">
+            <mxRectangle width="76" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M7sHQn6iPLXkSEFRILRe-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ciclo 01-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="M7sHQn6iPLXkSEFRILRe-2">
+          <mxGeometry x="76" width="253" height="26" as="geometry">
+            <mxRectangle width="253" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M7sHQn6iPLXkSEFRILRe-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="M7sHQn6iPLXkSEFRILRe-1">
+          <mxGeometry y="56" width="328.75" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="M7sHQn6iPLXkSEFRILRe-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="M7sHQn6iPLXkSEFRILRe-5">
+          <mxGeometry width="76" height="43" as="geometry">
+            <mxRectangle width="76" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M7sHQn6iPLXkSEFRILRe-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Juan Santos, René Cruz y Mauricio Chinchilla&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="M7sHQn6iPLXkSEFRILRe-5">
+          <mxGeometry x="76" width="253" height="43" as="geometry">
+            <mxRectangle width="253" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M7sHQn6iPLXkSEFRILRe-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="M7sHQn6iPLXkSEFRILRe-1">
+          <mxGeometry y="99" width="328.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M7sHQn6iPLXkSEFRILRe-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="M7sHQn6iPLXkSEFRILRe-8">
+          <mxGeometry width="76" height="20" as="geometry">
+            <mxRectangle width="76" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M7sHQn6iPLXkSEFRILRe-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="M7sHQn6iPLXkSEFRILRe-8">
+          <mxGeometry x="76" width="253" height="20" as="geometry">
+            <mxRectangle width="253" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M7sHQn6iPLXkSEFRILRe-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M7sHQn6iPLXkSEFRILRe-11" target="M7sHQn6iPLXkSEFRILRe-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M7sHQn6iPLXkSEFRILRe-11" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Resguardo de aulas virtuales del ciclo anterior Blackboard&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="352.75" y="216" width="178" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M7sHQn6iPLXkSEFRILRe-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M7sHQn6iPLXkSEFRILRe-12" target="M7sHQn6iPLXkSEFRILRe-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M7sHQn6iPLXkSEFRILRe-12" value="Verificar el periodo que contienen las aulas" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="381.75" y="316" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M7sHQn6iPLXkSEFRILRe-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M7sHQn6iPLXkSEFRILRe-14" target="M7sHQn6iPLXkSEFRILRe-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M7sHQn6iPLXkSEFRILRe-14" value="Desde el área técnica se creará un ticket para el soporte de Anthology donde se especifique el periodo o periodos a resguardar enlace:&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255); color: rgb(0, 112, 192); font-size: 11pt; line-height: 19.425px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW203471532 BCX0&quot; lang=&quot;ES-ES&quot; data-contrast=&quot;none&quot;&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot; class=&quot;NormalTextRun SCXW203471532 BCX0&quot;&gt;https://blackboard.my.site.com/Support/s/?language=en_US&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255); font-size: 11pt; line-height: 19.425px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; color: rgb(0, 112, 192);&quot; data-ccp-props=&quot;{}&quot; class=&quot;EOP SCXW203471532 BCX0&quot;&gt;&amp;nbsp;&lt;/span&gt;&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="249.06" y="420" width="385.37" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="M7sHQn6iPLXkSEFRILRe-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M7sHQn6iPLXkSEFRILRe-16" target="M7sHQn6iPLXkSEFRILRe-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M7sHQn6iPLXkSEFRILRe-16" value="Esperar confirmación y credenciales de acceso del almacenamiento por parte del proveedor" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="358.62" y="548" width="166.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M7sHQn6iPLXkSEFRILRe-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M7sHQn6iPLXkSEFRILRe-18" target="M7sHQn6iPLXkSEFRILRe-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M7sHQn6iPLXkSEFRILRe-18" value="Usar la herramienta CyberDuck y contar con un disco externo para almacenamiento" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="347.62" y="647" width="188.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M7sHQn6iPLXkSEFRILRe-20" value="Iniciar sesión en CyberDuck y descargar copia en F: \BackUp\año\ciclo (vigencia de un año)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330.55" y="746" width="222.38" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
