@@ -1,0 +1,148 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="rbiIB113oTbRRns6y-qY">
+    <mxGraphModel dx="1188" dy="701" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d0WReihgSC-EakX2Y7MS-1" value="Proyecto de capacitación para docentes" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="33" y="30" width="291.5086206896552" height="102.27586206896555" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="d0WReihgSC-EakX2Y7MS-1">
+          <mxGeometry y="30" width="291.5086206896552" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="d0WReihgSC-EakX2Y7MS-2">
+          <mxGeometry width="76" height="25" as="geometry">
+            <mxRectangle width="76" height="25" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ciclo 01-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="d0WReihgSC-EakX2Y7MS-2">
+          <mxGeometry x="76" width="216" height="25" as="geometry">
+            <mxRectangle width="216" height="25" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="d0WReihgSC-EakX2Y7MS-1">
+          <mxGeometry y="55" width="291.5086206896552" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="d0WReihgSC-EakX2Y7MS-5">
+          <mxGeometry width="76" height="27" as="geometry">
+            <mxRectangle width="76" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Mesalina Ramirez y Luis Lemus&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="d0WReihgSC-EakX2Y7MS-5">
+          <mxGeometry x="76" width="216" height="27" as="geometry">
+            <mxRectangle width="216" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="d0WReihgSC-EakX2Y7MS-1">
+          <mxGeometry y="82" width="291.5086206896552" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="d0WReihgSC-EakX2Y7MS-8">
+          <mxGeometry width="76" height="20" as="geometry">
+            <mxRectangle width="76" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="d0WReihgSC-EakX2Y7MS-8">
+          <mxGeometry x="76" width="216" height="20" as="geometry">
+            <mxRectangle width="216" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="d0WReihgSC-EakX2Y7MS-11" target="d0WReihgSC-EakX2Y7MS-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-11" value="Proyecto de capacitación para docentes" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="354" y="147" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0WReihgSC-EakX2Y7MS-12" target="d0WReihgSC-EakX2Y7MS-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-12" value="Análisis de necesidades de capacitación con Jefatura de Capacitación y Desarrollo (RRHH)" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295.5" y="215" width="237" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-14" value="Definición de temas principales a impartir" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="273" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0WReihgSC-EakX2Y7MS-16" target="d0WReihgSC-EakX2Y7MS-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-16" value="Desarrollo de contenidos con Direcicón de educación virtual" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="328" y="336" width="171" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-18" value="Preparación de material y aula virtual" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="393" width="120" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0WReihgSC-EakX2Y7MS-20" target="d0WReihgSC-EakX2Y7MS-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-20" value="Establecer fechas y lugar de la capacitación" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="452" width="120" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-22" value="Diseño instruccional, enviarlo a jefatura" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="506" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0WReihgSC-EakX2Y7MS-24" target="d0WReihgSC-EakX2Y7MS-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-24" value="Jefatura remite información a 5 facultades y recibe propuesto de inscritos" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="324" y="559" width="175" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-26" value="Listado de participantes enviado a Dirección de Educación Virtual" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="331" y="623" width="166" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0WReihgSC-EakX2Y7MS-28" target="d0WReihgSC-EakX2Y7MS-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-28" value="Área técnica habilita aula virtual y registra usuarios" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="680" width="133" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0WReihgSC-EakX2Y7MS-34" target="d0WReihgSC-EakX2Y7MS-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-34" value="Ejecución de la capacitación" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351.5" y="733" width="120" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0WReihgSC-EakX2Y7MS-36" target="d0WReihgSC-EakX2Y7MS-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-36" value="Control de asistencia" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351.5" y="780" width="120" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0WReihgSC-EakX2Y7MS-38" target="d0WReihgSC-EakX2Y7MS-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-38" value="Jornadas de toma de video" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351.5" y="828" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0WReihgSC-EakX2Y7MS-40" target="d0WReihgSC-EakX2Y7MS-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-40" value="Revisión de entregas en aula virtual" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351.5" y="880" width="120" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0WReihgSC-EakX2Y7MS-42" target="d0WReihgSC-EakX2Y7MS-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-42" value="Calificación de actividades" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351.5" y="934" width="120" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0WReihgSC-EakX2Y7MS-45" target="d0WReihgSC-EakX2Y7MS-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-45" value="Documento de aprobado y reprobados" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351.5" y="987" width="120" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0WReihgSC-EakX2Y7MS-47" target="d0WReihgSC-EakX2Y7MS-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-47" value="Resultados remitidos a jefatura" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351.5" y="1038" width="120" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="d0WReihgSC-EakX2Y7MS-47" target="d0WReihgSC-EakX2Y7MS-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WReihgSC-EakX2Y7MS-50" value="Jefatura notifica resultados, gestiona y entrega diplomas; se archivan calificaciones en Dirección de Educación Virtual" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="318.75" y="1093" width="185.5" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

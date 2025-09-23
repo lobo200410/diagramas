@@ -1,0 +1,91 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="8u3kx_lQ9get_3kCOJ-0">
+    <mxGraphModel dx="983" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MReVErheWlwBWvQHduFH-1" value="Petición aulas virtual en Moodle y registro de tiempos de navegación" style="shape=table;startSize=28;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="394.5443349753693" height="90.27586206896555" as="geometry" />
+        </mxCell>
+        <mxCell id="MReVErheWlwBWvQHduFH-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="MReVErheWlwBWvQHduFH-1">
+          <mxGeometry y="28" width="394.5443349753693" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MReVErheWlwBWvQHduFH-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="MReVErheWlwBWvQHduFH-2">
+          <mxGeometry width="76" height="20" as="geometry">
+            <mxRectangle width="76" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MReVErheWlwBWvQHduFH-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ciclo 01-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="MReVErheWlwBWvQHduFH-2">
+          <mxGeometry x="76" width="319" height="20" as="geometry">
+            <mxRectangle width="319" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MReVErheWlwBWvQHduFH-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="MReVErheWlwBWvQHduFH-1">
+          <mxGeometry y="48" width="394.5443349753693" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MReVErheWlwBWvQHduFH-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="MReVErheWlwBWvQHduFH-5">
+          <mxGeometry width="76" height="20" as="geometry">
+            <mxRectangle width="76" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MReVErheWlwBWvQHduFH-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Juan José y René Cruz&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="MReVErheWlwBWvQHduFH-5">
+          <mxGeometry x="76" width="319" height="20" as="geometry">
+            <mxRectangle width="319" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MReVErheWlwBWvQHduFH-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="MReVErheWlwBWvQHduFH-1">
+          <mxGeometry y="68" width="394.5443349753693" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MReVErheWlwBWvQHduFH-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="MReVErheWlwBWvQHduFH-8">
+          <mxGeometry width="76" height="20" as="geometry">
+            <mxRectangle width="76" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MReVErheWlwBWvQHduFH-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="MReVErheWlwBWvQHduFH-8">
+          <mxGeometry x="76" width="319" height="20" as="geometry">
+            <mxRectangle width="319" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MReVErheWlwBWvQHduFH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MReVErheWlwBWvQHduFH-11" target="MReVErheWlwBWvQHduFH-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MReVErheWlwBWvQHduFH-11" value="Creación de aulas virtuales Salones de Apoyo" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="351" y="173" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MReVErheWlwBWvQHduFH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MReVErheWlwBWvQHduFH-12" target="MReVErheWlwBWvQHduFH-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MReVErheWlwBWvQHduFH-12" value="Petición mediante correo electrónico a la dirección de Educación Virtual" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="259" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MReVErheWlwBWvQHduFH-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MReVErheWlwBWvQHduFH-14" target="MReVErheWlwBWvQHduFH-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MReVErheWlwBWvQHduFH-14" value="Validar que en la petición se incluya Nombre del aula y docente encargado del aula" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345.5" y="345" width="137" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MReVErheWlwBWvQHduFH-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MReVErheWlwBWvQHduFH-16" target="MReVErheWlwBWvQHduFH-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MReVErheWlwBWvQHduFH-16" value="Generar las consultas necesarias para crear salones y matricular en documento de Excel Plantilla, asegurarse de que el id del ciclo sea el correspondiente al ciclo" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="317" y="434" width="192" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="MReVErheWlwBWvQHduFH-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MReVErheWlwBWvQHduFH-18" target="MReVErheWlwBWvQHduFH-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MReVErheWlwBWvQHduFH-18" value="Notificar al encargado de la dirección de tecnología para que lleve a cabo los respectivos procedimientos para que se haga efectiva la creación de aulas virtuales" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="304" y="537" width="218" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MReVErheWlwBWvQHduFH-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MReVErheWlwBWvQHduFH-20" target="MReVErheWlwBWvQHduFH-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MReVErheWlwBWvQHduFH-20" value="Ejecutar Cron´s" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="353" y="626" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MReVErheWlwBWvQHduFH-22" value="Verificar que el aula y matriculaciones se hayan efectuado" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="353" y="685" width="120" height="43" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

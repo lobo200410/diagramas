@@ -49,13 +49,13 @@
         <mxCell id="2W4oQ-HzInhPV2Ujpsob-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2W4oQ-HzInhPV2Ujpsob-11" target="2W4oQ-HzInhPV2Ujpsob-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2W4oQ-HzInhPV2Ujpsob-11" value="Agendar citas para toma de videos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="2W4oQ-HzInhPV2Ujpsob-11" value="Agentar citas para toma de videos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="342" y="213" width="144" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2W4oQ-HzInhPV2Ujpsob-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2W4oQ-HzInhPV2Ujpsob-12" target="2W4oQ-HzInhPV2Ujpsob-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2W4oQ-HzInhPV2Ujpsob-12" value="El docente hace la solicitud para toma de videos a través de correo electrónico, llamada telefónica ó portal educativo" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2W4oQ-HzInhPV2Ujpsob-12" value="El docente hace la solicitud para toma de videos a través de correo electrónico, llamada telefónica. portal educativo" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="295" y="295" width="238" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2W4oQ-HzInhPV2Ujpsob-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2W4oQ-HzInhPV2Ujpsob-14" target="2W4oQ-HzInhPV2Ujpsob-16">
