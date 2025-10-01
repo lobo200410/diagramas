@@ -1,0 +1,103 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="vqWopkmGVmvFVqyOa3lv">
+    <mxGraphModel dx="815" dy="481" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8A1Km20109l9hFiMyei9-1" value="Reinicio de contraseñas" style="shape=table;startSize=28;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="31" y="30" width="219.54433497536928" height="102.27586206896555" as="geometry" />
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="8A1Km20109l9hFiMyei9-1">
+          <mxGeometry y="28" width="219.54433497536928" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="8A1Km20109l9hFiMyei9-2">
+          <mxGeometry width="76" height="20" as="geometry">
+            <mxRectangle width="76" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ciclo 01-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="8A1Km20109l9hFiMyei9-2">
+          <mxGeometry x="76" width="144" height="20" as="geometry">
+            <mxRectangle width="144" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="8A1Km20109l9hFiMyei9-1">
+          <mxGeometry y="48" width="219.54433497536928" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="8A1Km20109l9hFiMyei9-5">
+          <mxGeometry width="76" height="32" as="geometry">
+            <mxRectangle width="76" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;René Cruz&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="8A1Km20109l9hFiMyei9-5">
+          <mxGeometry x="76" width="144" height="32" as="geometry">
+            <mxRectangle width="144" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="8A1Km20109l9hFiMyei9-1">
+          <mxGeometry y="80" width="219.54433497536928" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="8A1Km20109l9hFiMyei9-8">
+          <mxGeometry width="76" height="20" as="geometry">
+            <mxRectangle width="76" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="8A1Km20109l9hFiMyei9-8">
+          <mxGeometry x="76" width="144" height="20" as="geometry">
+            <mxRectangle width="144" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8A1Km20109l9hFiMyei9-11" target="8A1Km20109l9hFiMyei9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-11" value="Reinicio de contraseñas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="354" y="167" width="120" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8A1Km20109l9hFiMyei9-12" target="8A1Km20109l9hFiMyei9-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-12" value="El área técnica recibe el caso &quot;Problema de contraseña&quot;, por medio de correo electrónico o llamada" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="337" y="235" width="154" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8A1Km20109l9hFiMyei9-16" target="8A1Km20109l9hFiMyei9-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8A1Km20109l9hFiMyei9-16" target="8A1Km20109l9hFiMyei9-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-16" value="¿Problema portal Educativo?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="324" width="126" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-18" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="461" y="368" width="29" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-20" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="330" y="368" width="35" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-21" value="Se transfiere con la Dirección de Tecnología" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="514" y="406" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8A1Km20109l9hFiMyei9-23" target="8A1Km20109l9hFiMyei9-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-23" value="El área técnica ingresa con credneciales de administración en la siguiente ruta:Seguridad/Generalidades del sistena/Credenciales portal educativo" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="132" y="406" width="205" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8A1Km20109l9hFiMyei9-25" target="8A1Km20109l9hFiMyei9-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-25" value="En el campo de texto de la ruta indicada se digita el número de carnet (Sin guiones) del estudiante" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="148.25" y="494" width="172.5" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8A1Km20109l9hFiMyei9-27" target="8A1Km20109l9hFiMyei9-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-27" value="El sistema muestra el registro del estudiante y se presiona el botón Restablecer y luego botón Aceptar" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="157.25" y="569" width="154.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8A1Km20109l9hFiMyei9-29" value="Se le indica al estudiante qe ingrese con las credenciales por defecto (Fecha de nacimiento) una vez verificado finaliza el proceso" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145.75" y="656" width="177.5" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
