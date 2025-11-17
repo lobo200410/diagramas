@@ -1,0 +1,133 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="MbvgzRaiOBdfm6R23Okg">
+    <mxGraphModel dx="983" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RURwATht99GGe6nhG1mi-13" value="Soporte a consultas: personal, e-mail, llamadas telefónicas" style="shape=table;startSize=28;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="30" y="27" width="348" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="RURwATht99GGe6nhG1mi-13">
+          <mxGeometry y="28" width="348" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="RURwATht99GGe6nhG1mi-14">
+          <mxGeometry width="75" height="22" as="geometry">
+            <mxRectangle width="75" height="22" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ciclo 01-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="RURwATht99GGe6nhG1mi-14">
+          <mxGeometry x="75" width="273" height="22" as="geometry">
+            <mxRectangle width="273" height="22" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="RURwATht99GGe6nhG1mi-13">
+          <mxGeometry y="50" width="348" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="RURwATht99GGe6nhG1mi-17">
+          <mxGeometry width="75" height="25" as="geometry">
+            <mxRectangle width="75" height="25" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Mesalina Ramírez&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="RURwATht99GGe6nhG1mi-17">
+          <mxGeometry x="75" width="273" height="25" as="geometry">
+            <mxRectangle width="273" height="25" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="RURwATht99GGe6nhG1mi-13">
+          <mxGeometry y="75" width="348" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="RURwATht99GGe6nhG1mi-20">
+          <mxGeometry width="75" height="20" as="geometry">
+            <mxRectangle width="75" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="RURwATht99GGe6nhG1mi-20">
+          <mxGeometry x="75" width="273" height="20" as="geometry">
+            <mxRectangle width="273" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RURwATht99GGe6nhG1mi-23" target="RURwATht99GGe6nhG1mi-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-23" value="Atención Telefónica" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="353" y="188" width="120" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RURwATht99GGe6nhG1mi-24" target="RURwATht99GGe6nhG1mi-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-24" value="Call center UTEC transfiere la llamada con al incidencia" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="353" y="277" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RURwATht99GGe6nhG1mi-26" target="RURwATht99GGe6nhG1mi-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-26" value="El personal de UtecVirtual recibe la información" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="353" y="374" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RURwATht99GGe6nhG1mi-30" target="RURwATht99GGe6nhG1mi-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-30" value="Verifica la identidad del usuario (carné o usuario docente)" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="353" y="477" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RURwATht99GGe6nhG1mi-32" target="RURwATht99GGe6nhG1mi-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RURwATht99GGe6nhG1mi-32" target="RURwATht99GGe6nhG1mi-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-32" value="¿Docente?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="373" y="564" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RURwATht99GGe6nhG1mi-33" target="RURwATht99GGe6nhG1mi-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-33" value="Registro académico/educación virtual/materias inscritas/seleccionar ciclo/ingresar carné sin guiones" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="144" y="644" width="212" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RURwATht99GGe6nhG1mi-35" target="RURwATht99GGe6nhG1mi-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-35" value="Registro académico/educación virtual/carga académica/Seleccionar ciclo/seleccionar escuela/consultar" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="507" y="644" width="212" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-36" value="SI&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="443" y="603" width="29" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-37" value="NO&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="603" width="36" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RURwATht99GGe6nhG1mi-39" target="RURwATht99GGe6nhG1mi-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-39" value="Se analiza el problema reportado" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="553" y="737" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RURwATht99GGe6nhG1mi-41" target="RURwATht99GGe6nhG1mi-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-41" value="Se analiza el problema reportado" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="737" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RURwATht99GGe6nhG1mi-44" target="RURwATht99GGe6nhG1mi-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-44" value="El personal resuelve la solicitud" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="832" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RURwATht99GGe6nhG1mi-46" target="RURwATht99GGe6nhG1mi-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-46" value="El personal resuelve la solicitud" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="553" y="832" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-48" value="Se brinda la respuesta al usuario pro teléfono&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22El%20personal%20resuelve%20la%20solicitud%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D14%3BfontFamily%3DTimes%20New%20Roman%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22190%22%20y%3D%22832%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="553" y="929" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RURwATht99GGe6nhG1mi-50" value="Se brinda la respuesta al usuario pro teléfono&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22El%20personal%20resuelve%20la%20solicitud%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D14%3BfontFamily%3DTimes%20New%20Roman%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22190%22%20y%3D%22832%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="927" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
