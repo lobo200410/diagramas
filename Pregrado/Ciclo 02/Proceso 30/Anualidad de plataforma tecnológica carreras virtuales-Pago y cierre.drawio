@@ -1,0 +1,103 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="zQYeh7gkMPt6L0NVgE5v">
+    <mxGraphModel dx="1426" dy="841" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ksvueVWUm6saa5CgsPES-1" value="Anualidad de plataforma tecnológica carreras virtuales" style="shape=table;startSize=28;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=15;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="30" y="30" width="356.16502463054167" height="95.48275862068972" as="geometry" />
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="ksvueVWUm6saa5CgsPES-1" vertex="1">
+          <mxGeometry y="28" width="356.16502463054167" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="ksvueVWUm6saa5CgsPES-2" vertex="1">
+          <mxGeometry width="76" height="20" as="geometry">
+            <mxRectangle width="76" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ciclo 02-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="ksvueVWUm6saa5CgsPES-2" vertex="1">
+          <mxGeometry x="76" width="280" height="20" as="geometry">
+            <mxRectangle width="280" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="ksvueVWUm6saa5CgsPES-1" vertex="1">
+          <mxGeometry y="48" width="356.16502463054167" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="ksvueVWUm6saa5CgsPES-5" vertex="1">
+          <mxGeometry width="76" height="26" as="geometry">
+            <mxRectangle width="76" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Mesalina Ramírez&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="ksvueVWUm6saa5CgsPES-5" vertex="1">
+          <mxGeometry x="76" width="280" height="26" as="geometry">
+            <mxRectangle width="280" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="ksvueVWUm6saa5CgsPES-1" vertex="1">
+          <mxGeometry y="74" width="356.16502463054167" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="ksvueVWUm6saa5CgsPES-8" vertex="1">
+          <mxGeometry width="76" height="20" as="geometry">
+            <mxRectangle width="76" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="ksvueVWUm6saa5CgsPES-8" vertex="1">
+          <mxGeometry x="76" width="280" height="20" as="geometry">
+            <mxRectangle width="280" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ksvueVWUm6saa5CgsPES-11" target="ksvueVWUm6saa5CgsPES-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-11" value="Pago y cierre" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="354" y="182" width="120" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ksvueVWUm6saa5CgsPES-12" target="ksvueVWUm6saa5CgsPES-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-12" value="El Departamento de Contabilidd realiza los cálculos de IVA (13%), renta de no domiciliados (20%) y comisión bancaría&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="325" y="249" width="178" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ksvueVWUm6saa5CgsPES-14" target="ksvueVWUm6saa5CgsPES-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-14" value="La Dirección de Utec Virtual elabora un memorandum a la VRA con el contrato y los cálculos de pago" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="333.5" y="349" width="161" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ksvueVWUm6saa5CgsPES-16" target="ksvueVWUm6saa5CgsPES-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-16" value="La VRA obtiene el Vo.Bo y lo comparte con Innovación y Tecnología para su visto bueno, ya que el gasto se carga al presupuesto de Tecnología" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="321" y="446" width="186" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ksvueVWUm6saa5CgsPES-18" target="ksvueVWUm6saa5CgsPES-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-18" value="La Vicerrectoría financiera recibe la documentación completa y procede a realizar la transferencia bancaria" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="337" y="555" width="154" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ksvueVWUm6saa5CgsPES-20" target="ksvueVWUm6saa5CgsPES-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-20" value="La Vicerrectoría Financiera entrega el comprobante de transferencia, que se comparte con Innovación y Tecnología" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="331.5" y="657" width="165" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ksvueVWUm6saa5CgsPES-22" target="ksvueVWUm6saa5CgsPES-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-22" value="La Dirección de Utec Virtual envía el comprobante al proveedor, quien posteriormente remite la factura" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="325" y="757" width="179" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ksvueVWUm6saa5CgsPES-26" target="ksvueVWUm6saa5CgsPES-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-26" value="La Dirección de Utec Virtual comparte la factura con la Vicerrectoría Financiera, Innovación y Tecnología" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="325" y="847" width="179" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="ksvueVWUm6saa5CgsPES-28" value="Finalmente, la Dirección de Utec Virtual archiva todos los comprobantes en físico y digital como respaldo del proceso" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="334" y="937" width="161" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

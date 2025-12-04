@@ -1,0 +1,73 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="UQL-HyXuBx8KBxuFjz7R">
+    <mxGraphModel dx="1426" dy="841" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sIid0uW7GTpbnuauoIcA-1" value="Deshabilitar aulas del ciclo anterior Moodle" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="30" y="18" width="317" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="sIid0uW7GTpbnuauoIcA-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="sIid0uW7GTpbnuauoIcA-1" vertex="1">
+          <mxGeometry y="30" width="317" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="sIid0uW7GTpbnuauoIcA-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="sIid0uW7GTpbnuauoIcA-2" vertex="1">
+          <mxGeometry width="76" height="26" as="geometry">
+            <mxRectangle width="76" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sIid0uW7GTpbnuauoIcA-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ciclo 02-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="sIid0uW7GTpbnuauoIcA-2" vertex="1">
+          <mxGeometry x="76" width="241" height="26" as="geometry">
+            <mxRectangle width="241" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sIid0uW7GTpbnuauoIcA-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="sIid0uW7GTpbnuauoIcA-1" vertex="1">
+          <mxGeometry y="56" width="317" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="sIid0uW7GTpbnuauoIcA-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="sIid0uW7GTpbnuauoIcA-5" vertex="1">
+          <mxGeometry width="76" height="46" as="geometry">
+            <mxRectangle width="76" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sIid0uW7GTpbnuauoIcA-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Juan Santos, René Cruz y Mauricio Chinchilla&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="sIid0uW7GTpbnuauoIcA-5" vertex="1">
+          <mxGeometry x="76" width="241" height="46" as="geometry">
+            <mxRectangle width="241" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sIid0uW7GTpbnuauoIcA-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="sIid0uW7GTpbnuauoIcA-1" vertex="1">
+          <mxGeometry y="102" width="317" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sIid0uW7GTpbnuauoIcA-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="sIid0uW7GTpbnuauoIcA-8" vertex="1">
+          <mxGeometry width="76" height="20" as="geometry">
+            <mxRectangle width="76" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sIid0uW7GTpbnuauoIcA-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="sIid0uW7GTpbnuauoIcA-8" vertex="1">
+          <mxGeometry x="76" width="241" height="20" as="geometry">
+            <mxRectangle width="241" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sIid0uW7GTpbnuauoIcA-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="1" source="sIid0uW7GTpbnuauoIcA-11" target="sIid0uW7GTpbnuauoIcA-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sIid0uW7GTpbnuauoIcA-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;Deshabilitar aulas del ciclo anterior&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="354" y="228" width="120" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="sIid0uW7GTpbnuauoIcA-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="1" source="sIid0uW7GTpbnuauoIcA-12" target="sIid0uW7GTpbnuauoIcA-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sIid0uW7GTpbnuauoIcA-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;Notificar al encargado en la dirección de tecnología el ciclo ha deshabilitar&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="342" y="317" width="144" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="sIid0uW7GTpbnuauoIcA-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="1" source="sIid0uW7GTpbnuauoIcA-15" target="sIid0uW7GTpbnuauoIcA-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sIid0uW7GTpbnuauoIcA-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;Esperar confirmación de la Dirección de Tecnología&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="341" y="423" width="146" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="sIid0uW7GTpbnuauoIcA-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;El área técnica de Utec Virtual valida que se haya hecho efectivo que se ha deshabilitado&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="323.5" y="515" width="181" height="77" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

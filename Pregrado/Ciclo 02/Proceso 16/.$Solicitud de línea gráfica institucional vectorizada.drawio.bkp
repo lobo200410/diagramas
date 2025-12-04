@@ -1,0 +1,91 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="sGIcfRYOH74Aw1Wm7zOz">
+    <mxGraphModel dx="1678" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R9TTLn6Jl3VtXRiLVENw-1" value="Solicitud de línea gráfica institucional vectorizada" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="290" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="R9TTLn6Jl3VtXRiLVENw-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="R9TTLn6Jl3VtXRiLVENw-1">
+          <mxGeometry y="30" width="290" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="R9TTLn6Jl3VtXRiLVENw-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="R9TTLn6Jl3VtXRiLVENw-2">
+          <mxGeometry width="70" height="22" as="geometry">
+            <mxRectangle width="70" height="22" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9TTLn6Jl3VtXRiLVENw-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ciclo 01-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="R9TTLn6Jl3VtXRiLVENw-2">
+          <mxGeometry x="70" width="220" height="22" as="geometry">
+            <mxRectangle width="220" height="22" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9TTLn6Jl3VtXRiLVENw-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="R9TTLn6Jl3VtXRiLVENw-1">
+          <mxGeometry y="52" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R9TTLn6Jl3VtXRiLVENw-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="R9TTLn6Jl3VtXRiLVENw-5">
+          <mxGeometry width="70" height="30" as="geometry">
+            <mxRectangle width="70" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9TTLn6Jl3VtXRiLVENw-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Mesalina Ramirez&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="R9TTLn6Jl3VtXRiLVENw-5">
+          <mxGeometry x="70" width="220" height="30" as="geometry">
+            <mxRectangle width="220" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9TTLn6Jl3VtXRiLVENw-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="R9TTLn6Jl3VtXRiLVENw-1">
+          <mxGeometry y="82" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R9TTLn6Jl3VtXRiLVENw-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="R9TTLn6Jl3VtXRiLVENw-8">
+          <mxGeometry width="70" height="20" as="geometry">
+            <mxRectangle width="70" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9TTLn6Jl3VtXRiLVENw-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="R9TTLn6Jl3VtXRiLVENw-8">
+          <mxGeometry x="70" width="220" height="20" as="geometry">
+            <mxRectangle width="220" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9TTLn6Jl3VtXRiLVENw-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R9TTLn6Jl3VtXRiLVENw-11" target="R9TTLn6Jl3VtXRiLVENw-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R9TTLn6Jl3VtXRiLVENw-11" value="Solicitud de línea gráfica institucional vectorizada" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="333" y="170" width="162" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R9TTLn6Jl3VtXRiLVENw-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R9TTLn6Jl3VtXRiLVENw-12" target="R9TTLn6Jl3VtXRiLVENw-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R9TTLn6Jl3VtXRiLVENw-12" value="Se reciben instrucciones de la Dirección de Comunicaciones de la UTEC, haciendo referencia de la imagen institucional que se utilizará durante el año académico" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="274" y="260" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R9TTLn6Jl3VtXRiLVENw-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R9TTLn6Jl3VtXRiLVENw-14" target="R9TTLn6Jl3VtXRiLVENw-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R9TTLn6Jl3VtXRiLVENw-14" value="La Dirección de Educación Virtual, revisa la información remitida por la Dirección de Comunicaciones" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="302" y="380" width="224" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R9TTLn6Jl3VtXRiLVENw-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R9TTLn6Jl3VtXRiLVENw-18" target="R9TTLn6Jl3VtXRiLVENw-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R9TTLn6Jl3VtXRiLVENw-18" value="La Dirección de Educación Virtual con el área de diseño, revisan los cambios que se deben de efectuar para la realización de manuales, cintillos, banner u otro requerimiento de diseño institucional" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265.5" y="500" width="297" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="R9TTLn6Jl3VtXRiLVENw-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R9TTLn6Jl3VtXRiLVENw-20" target="R9TTLn6Jl3VtXRiLVENw-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R9TTLn6Jl3VtXRiLVENw-20" value="El área de diseño realiza pruebas de diseño, para ser analizadas y revisadas por la Dirección de Eduación Virtual" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="296" y="640" width="236" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R9TTLn6Jl3VtXRiLVENw-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R9TTLn6Jl3VtXRiLVENw-22" target="R9TTLn6Jl3VtXRiLVENw-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R9TTLn6Jl3VtXRiLVENw-22" value="El área de diseño recibe el visto bueno de la Direción de Educación Virtual" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="316" y="750" width="196" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R9TTLn6Jl3VtXRiLVENw-24" value="El área de diseño realiza los cambios y que son de acuerdo con la línea gráfica recibida" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="321" y="860" width="186" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

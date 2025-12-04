@@ -1,0 +1,79 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="yyNROM9LbeVTidNodFxe">
+    <mxGraphModel dx="983" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HChwnCL22l8oaljacYU8-2" value="Toma de video clases, parte 2" style="shape=table;startSize=28;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="356.16502463054167" height="111.96551724137929" as="geometry" />
+        </mxCell>
+        <mxCell id="HChwnCL22l8oaljacYU8-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="HChwnCL22l8oaljacYU8-2">
+          <mxGeometry y="28" width="356.16502463054167" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HChwnCL22l8oaljacYU8-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="HChwnCL22l8oaljacYU8-3">
+          <mxGeometry width="76" height="20" as="geometry">
+            <mxRectangle width="76" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HChwnCL22l8oaljacYU8-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ciclo 01-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="HChwnCL22l8oaljacYU8-3">
+          <mxGeometry x="76" width="280" height="20" as="geometry">
+            <mxRectangle width="280" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HChwnCL22l8oaljacYU8-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="HChwnCL22l8oaljacYU8-2">
+          <mxGeometry y="48" width="356.16502463054167" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="HChwnCL22l8oaljacYU8-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="HChwnCL22l8oaljacYU8-6">
+          <mxGeometry width="76" height="42" as="geometry">
+            <mxRectangle width="76" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HChwnCL22l8oaljacYU8-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Fátima Hernández, David Segura, Luis Lemus y Tatiana Herrera&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="HChwnCL22l8oaljacYU8-6">
+          <mxGeometry x="76" width="280" height="42" as="geometry">
+            <mxRectangle width="280" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HChwnCL22l8oaljacYU8-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="HChwnCL22l8oaljacYU8-2">
+          <mxGeometry y="90" width="356.16502463054167" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HChwnCL22l8oaljacYU8-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="HChwnCL22l8oaljacYU8-9">
+          <mxGeometry width="76" height="20" as="geometry">
+            <mxRectangle width="76" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HChwnCL22l8oaljacYU8-11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="HChwnCL22l8oaljacYU8-9">
+          <mxGeometry x="76" width="280" height="20" as="geometry">
+            <mxRectangle width="280" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HChwnCL22l8oaljacYU8-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HChwnCL22l8oaljacYU8-12" target="HChwnCL22l8oaljacYU8-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HChwnCL22l8oaljacYU8-12" value="Postproducción y entrega" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="353" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HChwnCL22l8oaljacYU8-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HChwnCL22l8oaljacYU8-13" target="HChwnCL22l8oaljacYU8-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HChwnCL22l8oaljacYU8-13" value="El área de diseño extrae el video de la memoria SD para iniciar la edición" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="353" y="269" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HChwnCL22l8oaljacYU8-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HChwnCL22l8oaljacYU8-15" target="HChwnCL22l8oaljacYU8-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HChwnCL22l8oaljacYU8-15" value="El área de diseño edita el video en Adobe Premiere y Audition" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="353" y="358" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HChwnCL22l8oaljacYU8-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HChwnCL22l8oaljacYU8-17" target="HChwnCL22l8oaljacYU8-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HChwnCL22l8oaljacYU8-17" value="El área de diseño exporta el video en formato MP4 con nombre del docente y tema" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="343.5" y="447" width="139" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="HChwnCL22l8oaljacYU8-19" value="El área de diseño sube el video a Youtube Utec Virtual, con descripción completa (docente, asignatura, facultad, univeridad, Utec Virtual" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="323.5" y="545.5" width="179" height="78" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

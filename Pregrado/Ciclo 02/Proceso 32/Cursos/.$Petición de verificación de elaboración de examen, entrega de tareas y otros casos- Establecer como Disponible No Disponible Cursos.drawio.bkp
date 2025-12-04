@@ -1,0 +1,67 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="SC0CsnxzBQTBYLU_neUJ">
+    <mxGraphModel dx="815" dy="481" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bs0Rg21jDPED8MWNLVki-1" value="Petición de verificación de elaboración de examen, entrega de tareas y otros casos" style="shape=table;startSize=28;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="33" y="27" width="498.6970443349751" height="90.61206896551734" as="geometry" />
+        </mxCell>
+        <mxCell id="bs0Rg21jDPED8MWNLVki-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="bs0Rg21jDPED8MWNLVki-1">
+          <mxGeometry y="28" width="498.6970443349751" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bs0Rg21jDPED8MWNLVki-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="bs0Rg21jDPED8MWNLVki-2">
+          <mxGeometry width="76" height="20" as="geometry">
+            <mxRectangle width="76" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bs0Rg21jDPED8MWNLVki-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ciclo 01-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="bs0Rg21jDPED8MWNLVki-2">
+          <mxGeometry x="76" width="423" height="20" as="geometry">
+            <mxRectangle width="423" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bs0Rg21jDPED8MWNLVki-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="bs0Rg21jDPED8MWNLVki-1">
+          <mxGeometry y="48" width="498.6970443349751" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="bs0Rg21jDPED8MWNLVki-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="bs0Rg21jDPED8MWNLVki-5">
+          <mxGeometry width="76" height="21" as="geometry">
+            <mxRectangle width="76" height="21" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bs0Rg21jDPED8MWNLVki-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Juan Santos, Mauricio Chinchilla y René Cruz&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="bs0Rg21jDPED8MWNLVki-5">
+          <mxGeometry x="76" width="423" height="21" as="geometry">
+            <mxRectangle width="423" height="21" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bs0Rg21jDPED8MWNLVki-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="bs0Rg21jDPED8MWNLVki-1">
+          <mxGeometry y="69" width="498.6970443349751" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bs0Rg21jDPED8MWNLVki-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="bs0Rg21jDPED8MWNLVki-8">
+          <mxGeometry width="76" height="20" as="geometry">
+            <mxRectangle width="76" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bs0Rg21jDPED8MWNLVki-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="bs0Rg21jDPED8MWNLVki-8">
+          <mxGeometry x="76" width="423" height="20" as="geometry">
+            <mxRectangle width="423" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bs0Rg21jDPED8MWNLVki-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bs0Rg21jDPED8MWNLVki-12" target="bs0Rg21jDPED8MWNLVki-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bs0Rg21jDPED8MWNLVki-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Establecer como Disponible/No Disponible (Cursos)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="317" y="208" width="205" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="bs0Rg21jDPED8MWNLVki-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bs0Rg21jDPED8MWNLVki-14" target="bs0Rg21jDPED8MWNLVki-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bs0Rg21jDPED8MWNLVki-14" value="El área técnica ingresa a Blakcboard con credenciales administrativas" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="269" width="149" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bs0Rg21jDPED8MWNLVki-15" value="Se dirige a la siguiente ruta: Administrador/Cursos/Filtrar por nombre del curso/Introducir el nombre/Seleccionar sección a modificar/Disponibilidad" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="227" y="357" width="386" height="53" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

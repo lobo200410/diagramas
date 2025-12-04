@@ -1,0 +1,157 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="9gm-KOM31USPl1MahUKP">
+    <mxGraphModel dx="1678" dy="989" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-1" value="Anualidad de herramientas tecnológicas educativas" style="shape=table;startSize=28;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="25" y="31" width="315.2684729064038" height="94.86206896551734" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="7sb09xk92Zf9BQL6D5-x-1">
+          <mxGeometry y="28" width="315.2684729064038" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="7sb09xk92Zf9BQL6D5-x-2">
+          <mxGeometry width="76" height="20" as="geometry">
+            <mxRectangle width="76" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ciclo 01-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="7sb09xk92Zf9BQL6D5-x-2">
+          <mxGeometry x="76" width="239" height="20" as="geometry">
+            <mxRectangle width="239" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="7sb09xk92Zf9BQL6D5-x-1">
+          <mxGeometry y="48" width="315.2684729064038" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="7sb09xk92Zf9BQL6D5-x-5">
+          <mxGeometry width="76" height="25" as="geometry">
+            <mxRectangle width="76" height="25" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Juan José y Mesalina Ramírez&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="7sb09xk92Zf9BQL6D5-x-5">
+          <mxGeometry x="76" width="239" height="25" as="geometry">
+            <mxRectangle width="239" height="25" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="7sb09xk92Zf9BQL6D5-x-1">
+          <mxGeometry y="73" width="315.2684729064038" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="7sb09xk92Zf9BQL6D5-x-8">
+          <mxGeometry width="76" height="20" as="geometry">
+            <mxRectangle width="76" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="7sb09xk92Zf9BQL6D5-x-8">
+          <mxGeometry x="76" width="239" height="20" as="geometry">
+            <mxRectangle width="239" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7sb09xk92Zf9BQL6D5-x-11" target="7sb09xk92Zf9BQL6D5-x-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-11" value="Anualidad de herramientas tecnológicas educativas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="338" y="147" width="150" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="7sb09xk92Zf9BQL6D5-x-12" target="7sb09xk92Zf9BQL6D5-x-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-12" value="La dirección de Utec Virtual revisa uso y fecha de vencimiento de la suscripción anual" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="212" width="186" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="7sb09xk92Zf9BQL6D5-x-14" target="7sb09xk92Zf9BQL6D5-x-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-14" value="La Direcciónd de Utec Virtual informa a VRA sobre la renovación, adjutando datos de uso" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="282" width="191" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="7sb09xk92Zf9BQL6D5-x-16" target="7sb09xk92Zf9BQL6D5-x-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="7sb09xk92Zf9BQL6D5-x-16" target="7sb09xk92Zf9BQL6D5-x-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-16" value="¿Autorizado?" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="373.13" y="351" width="79.75" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-18" value="Se notifica al proveedor y finaliza" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="192" y="431" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;NO&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="352" y="386" width="35" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7sb09xk92Zf9BQL6D5-x-21" target="7sb09xk92Zf9BQL6D5-x-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-21" value="Se gestiona con 3 semanas de anticipación antes de su vencimiento" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="423" width="141" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;SI&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="443" y="386" width="29" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7sb09xk92Zf9BQL6D5-x-24" target="7sb09xk92Zf9BQL6D5-x-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-24" value="El área técnica verifica sitios Web de los softwares a renovar" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530.5" y="491" width="120" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7sb09xk92Zf9BQL6D5-x-26" target="7sb09xk92Zf9BQL6D5-x-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-26" value="Un delegado del área técnica contacta al proveedor vía correo electrónico" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="517.75" y="560" width="145.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7sb09xk92Zf9BQL6D5-x-28" target="7sb09xk92Zf9BQL6D5-x-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-28" value="El proveedor envía oferta y forma de pago (tarjeta de crédito)" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="507.25" y="629" width="166.5" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7sb09xk92Zf9BQL6D5-x-30" target="7sb09xk92Zf9BQL6D5-x-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-30" value="La dirección de Utec Virtual elabora un memorándum a VRA solictiando pago, con estadístico adjunto." style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="498.75" y="686" width="183.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7sb09xk92Zf9BQL6D5-x-32" target="7sb09xk92Zf9BQL6D5-x-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-32" value="La VRA revisa y gestiona en Rectoría" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530.5" y="759" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7sb09xk92Zf9BQL6D5-x-34" target="7sb09xk92Zf9BQL6D5-x-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-34" value="Rectoría gestiona en presidencia" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530.5" y="816" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7sb09xk92Zf9BQL6D5-x-36" target="7sb09xk92Zf9BQL6D5-x-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-36" value="Con Vo.Bo. de VRA, Rectoría y Presencial, se envía memorándum a Vicerrectoría Finaciera y contabilidad" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="482.25" y="869" width="216.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7sb09xk92Zf9BQL6D5-x-38" target="7sb09xk92Zf9BQL6D5-x-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-38" value="Vicerrectoría Financiera gestiona pago por medio de tarjeta desde Presidencia" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="504.25" y="937" width="172.5" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7sb09xk92Zf9BQL6D5-x-40" target="7sb09xk92Zf9BQL6D5-x-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-40" value="Encargado de pagos con tarjeta institucional realiza pago y envía comprobante a Dirección de Educación Virtual" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="448.75" y="1002" width="283.5" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7sb09xk92Zf9BQL6D5-x-42" target="7sb09xk92Zf9BQL6D5-x-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-42" value="Dirección de eduación Virtual remite copia de pago a Vicerrectoría financiera y contabilildad" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="456.25" y="1061" width="268.5" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="7sb09xk92Zf9BQL6D5-x-44" value="Se realiza el uso anual de los softwares y se archivan comprobantes físicos y digitales" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="476.13" y="1121" width="228.75" height="34" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

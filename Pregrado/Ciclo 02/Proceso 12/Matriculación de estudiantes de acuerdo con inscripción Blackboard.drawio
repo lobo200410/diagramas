@@ -1,0 +1,73 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="SlyfSeHQFG4V8FsDgM_d">
+    <mxGraphModel dx="1426" dy="841" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NFyT_p3mltSkbX9A_G3y-1" value="Matriculación de estudiantes de acuerdo con inscripción Blackboard" style="shape=table;startSize=34;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;fontSize=15;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="20" y="30" width="442" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="NFyT_p3mltSkbX9A_G3y-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="NFyT_p3mltSkbX9A_G3y-1" vertex="1">
+          <mxGeometry y="34" width="442" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NFyT_p3mltSkbX9A_G3y-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="NFyT_p3mltSkbX9A_G3y-2" vertex="1">
+          <mxGeometry width="79" height="20" as="geometry">
+            <mxRectangle width="79" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NFyT_p3mltSkbX9A_G3y-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Ciclo 02-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="NFyT_p3mltSkbX9A_G3y-2" vertex="1">
+          <mxGeometry x="79" width="363" height="20" as="geometry">
+            <mxRectangle width="363" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NFyT_p3mltSkbX9A_G3y-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="NFyT_p3mltSkbX9A_G3y-1" vertex="1">
+          <mxGeometry y="54" width="442" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="NFyT_p3mltSkbX9A_G3y-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="NFyT_p3mltSkbX9A_G3y-5" vertex="1">
+          <mxGeometry width="79" height="32" as="geometry">
+            <mxRectangle width="79" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NFyT_p3mltSkbX9A_G3y-7" value="Juan Santos y René Cruz" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="NFyT_p3mltSkbX9A_G3y-5" vertex="1">
+          <mxGeometry x="79" width="363" height="32" as="geometry">
+            <mxRectangle width="363" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NFyT_p3mltSkbX9A_G3y-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="NFyT_p3mltSkbX9A_G3y-1" vertex="1">
+          <mxGeometry y="86" width="442" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NFyT_p3mltSkbX9A_G3y-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="NFyT_p3mltSkbX9A_G3y-8" vertex="1">
+          <mxGeometry width="79" height="20" as="geometry">
+            <mxRectangle width="79" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NFyT_p3mltSkbX9A_G3y-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="NFyT_p3mltSkbX9A_G3y-8" vertex="1">
+          <mxGeometry x="79" width="363" height="20" as="geometry">
+            <mxRectangle width="363" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NFyT_p3mltSkbX9A_G3y-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NFyT_p3mltSkbX9A_G3y-11" target="NFyT_p3mltSkbX9A_G3y-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFyT_p3mltSkbX9A_G3y-11" value="&lt;font&gt;Matriculación de estudiantes de acuerdo con inscripción Blackboard&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="311" y="215" width="206" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="NFyT_p3mltSkbX9A_G3y-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NFyT_p3mltSkbX9A_G3y-12" target="NFyT_p3mltSkbX9A_G3y-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFyT_p3mltSkbX9A_G3y-12" value="El área técnica notifica a la dirección de tecnlogía la carga masiva de aulas y enrolamiento de estudiantes a: al origem de dato y aulas correspondientes" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="291" y="325" width="245" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="NFyT_p3mltSkbX9A_G3y-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NFyT_p3mltSkbX9A_G3y-16" target="NFyT_p3mltSkbX9A_G3y-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFyT_p3mltSkbX9A_G3y-16" value="Esperar confirmación del proceso por parte de la dirección de tecnología" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="326" y="461" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NFyT_p3mltSkbX9A_G3y-18" value="El área técnica verifica que se hayan cargado los datos" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="346.5" y="566" width="135" height="67" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,91 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="TS8g828JsrIC9er9vVs7">
+    <mxGraphModel dx="983" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="O6bcwNSJSWuvQsliYjdc-1" value="Videos Administrativos" style="shape=table;startSize=28;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="26" y="26" width="247.40147783251228" height="96.71276683087036" as="geometry" />
+        </mxCell>
+        <mxCell id="O6bcwNSJSWuvQsliYjdc-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="O6bcwNSJSWuvQsliYjdc-1">
+          <mxGeometry y="28" width="247.40147783251228" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O6bcwNSJSWuvQsliYjdc-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="O6bcwNSJSWuvQsliYjdc-2">
+          <mxGeometry width="76" height="20" as="geometry">
+            <mxRectangle width="76" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O6bcwNSJSWuvQsliYjdc-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ciclo 01-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="O6bcwNSJSWuvQsliYjdc-2">
+          <mxGeometry x="76" width="171" height="20" as="geometry">
+            <mxRectangle width="171" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O6bcwNSJSWuvQsliYjdc-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="O6bcwNSJSWuvQsliYjdc-1">
+          <mxGeometry y="48" width="247.40147783251228" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="O6bcwNSJSWuvQsliYjdc-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="O6bcwNSJSWuvQsliYjdc-5">
+          <mxGeometry width="76" height="26" as="geometry">
+            <mxRectangle width="76" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O6bcwNSJSWuvQsliYjdc-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;David Segura&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="O6bcwNSJSWuvQsliYjdc-5">
+          <mxGeometry x="76" width="171" height="26" as="geometry">
+            <mxRectangle width="171" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O6bcwNSJSWuvQsliYjdc-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="O6bcwNSJSWuvQsliYjdc-1">
+          <mxGeometry y="74" width="247.40147783251228" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O6bcwNSJSWuvQsliYjdc-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="O6bcwNSJSWuvQsliYjdc-8">
+          <mxGeometry width="76" height="20" as="geometry">
+            <mxRectangle width="76" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O6bcwNSJSWuvQsliYjdc-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="O6bcwNSJSWuvQsliYjdc-8">
+          <mxGeometry x="76" width="171" height="20" as="geometry">
+            <mxRectangle width="171" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O6bcwNSJSWuvQsliYjdc-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O6bcwNSJSWuvQsliYjdc-11" target="O6bcwNSJSWuvQsliYjdc-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O6bcwNSJSWuvQsliYjdc-11" value="Postproducción (edición)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="353" y="166" width="120" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="O6bcwNSJSWuvQsliYjdc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O6bcwNSJSWuvQsliYjdc-12" target="O6bcwNSJSWuvQsliYjdc-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O6bcwNSJSWuvQsliYjdc-12" value="Extraer el video desde la memoria SD a la computadora" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="323" y="240" width="181" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="O6bcwNSJSWuvQsliYjdc-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O6bcwNSJSWuvQsliYjdc-14" target="O6bcwNSJSWuvQsliYjdc-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O6bcwNSJSWuvQsliYjdc-14" value="Edita el video en Adobe Premiere y Audition" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="353" y="319" width="120" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="O6bcwNSJSWuvQsliYjdc-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O6bcwNSJSWuvQsliYjdc-16" target="O6bcwNSJSWuvQsliYjdc-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O6bcwNSJSWuvQsliYjdc-16" value="Corregir audio, iluminación y cortes necesarios" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="353.5" y="407" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O6bcwNSJSWuvQsliYjdc-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O6bcwNSJSWuvQsliYjdc-18" target="O6bcwNSJSWuvQsliYjdc-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O6bcwNSJSWuvQsliYjdc-18" value="Exportar video en formato MP4" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="353.5" y="494" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="O6bcwNSJSWuvQsliYjdc-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O6bcwNSJSWuvQsliYjdc-20" target="O6bcwNSJSWuvQsliYjdc-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O6bcwNSJSWuvQsliYjdc-20" value="Nombrar el archivo con el nombre del docente y tema." style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="353" y="571" width="120" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="O6bcwNSJSWuvQsliYjdc-22" value="Pasar a la fase de publicación" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="353.5" y="663" width="120" height="37" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

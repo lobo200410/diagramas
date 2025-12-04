@@ -1,0 +1,97 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="-F0WS2ri33V9OmvVwFxS">
+    <mxGraphModel dx="1426" dy="841" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-1" value="Petición aulas virtual en Moodle y registro de tiempos de navegación" style="shape=table;startSize=28;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="22" y="30" width="394.5443349753693" height="102.27586206896555" as="geometry" />
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="7VbiDDIGHB3kExTSiTPA-1" vertex="1">
+          <mxGeometry y="28" width="394.5443349753693" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="7VbiDDIGHB3kExTSiTPA-2" vertex="1">
+          <mxGeometry width="76" height="25" as="geometry">
+            <mxRectangle width="76" height="25" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ciclo 02-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="7VbiDDIGHB3kExTSiTPA-2" vertex="1">
+          <mxGeometry x="76" width="319" height="25" as="geometry">
+            <mxRectangle width="319" height="25" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="7VbiDDIGHB3kExTSiTPA-1" vertex="1">
+          <mxGeometry y="53" width="394.5443349753693" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="7VbiDDIGHB3kExTSiTPA-5" vertex="1">
+          <mxGeometry width="76" height="27" as="geometry">
+            <mxRectangle width="76" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Juan José y René Cruz&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="7VbiDDIGHB3kExTSiTPA-5" vertex="1">
+          <mxGeometry x="76" width="319" height="27" as="geometry">
+            <mxRectangle width="319" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="7VbiDDIGHB3kExTSiTPA-1" vertex="1">
+          <mxGeometry y="80" width="394.5443349753693" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="7VbiDDIGHB3kExTSiTPA-8" vertex="1">
+          <mxGeometry width="76" height="20" as="geometry">
+            <mxRectangle width="76" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="7VbiDDIGHB3kExTSiTPA-8" vertex="1">
+          <mxGeometry x="76" width="319" height="20" as="geometry">
+            <mxRectangle width="319" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7VbiDDIGHB3kExTSiTPA-11" target="7VbiDDIGHB3kExTSiTPA-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-11" value="Creación de aulas virtuales Diplomados" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="354" y="166" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7VbiDDIGHB3kExTSiTPA-12" target="7VbiDDIGHB3kExTSiTPA-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-12" value="Petición mediante correcto electrónica a la dirección de Educación Virtual" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="331" y="255" width="165.75" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7VbiDDIGHB3kExTSiTPA-14" target="7VbiDDIGHB3kExTSiTPA-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-14" value="Válidar que en la petición se incluya Nombre de aula y docente encargado del aula" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="347" width="166.01" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7VbiDDIGHB3kExTSiTPA-17" target="7VbiDDIGHB3kExTSiTPA-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-17" value="Ingresar a la dirección de diplomados con credenciales de administrador del sitio" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="442" width="166.49" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7VbiDDIGHB3kExTSiTPA-19" target="7VbiDDIGHB3kExTSiTPA-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-19" value="Crear aula en categoria especifica o a fines desde (Gestionar cursos) ruta para crear:Administración del sitio/Cursos/Administrar cursos y categorias/Ubicar categoria para crear curso/Crear nuevo curso" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="258.26" y="532" width="311.49" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7VbiDDIGHB3kExTSiTPA-21" target="7VbiDDIGHB3kExTSiTPA-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-21" value="Llenar los campos de: Nombre compelto del curso, Nombre corto del curso,Categoría de cursos" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="315.01" y="644" width="198" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7VbiDDIGHB3kExTSiTPA-23" target="7VbiDDIGHB3kExTSiTPA-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-23" value="Se guardan cambios y se muestra el curso creado" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350.02" y="733" width="127.99" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7VbiDDIGHB3kExTSiTPA-25" value="Matricular docente encargado aula, menú participantes/Matricular usuarios/Buscar usuario (por correo electrónico) y seleccionarlo/Asignar rol/Matricular usuario" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="274.52" y="822" width="278.99" height="74" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

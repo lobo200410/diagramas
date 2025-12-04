@@ -1,0 +1,85 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="a8vo1xI3o9-MyqUxpYgX">
+    <mxGraphModel dx="1426" dy="841" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pSNQC05zAPN-fcuhxzEy-1" value="Anualidad de plataforma tecnológica carreras virtuales" style="shape=table;startSize=28;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=15;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="27" y="26" width="356.16502463054167" height="95.48275862068972" as="geometry" />
+        </mxCell>
+        <mxCell id="pSNQC05zAPN-fcuhxzEy-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="pSNQC05zAPN-fcuhxzEy-1" vertex="1">
+          <mxGeometry y="28" width="356.16502463054167" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pSNQC05zAPN-fcuhxzEy-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="pSNQC05zAPN-fcuhxzEy-2" vertex="1">
+          <mxGeometry width="76" height="20" as="geometry">
+            <mxRectangle width="76" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pSNQC05zAPN-fcuhxzEy-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ciclo 02-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="pSNQC05zAPN-fcuhxzEy-2" vertex="1">
+          <mxGeometry x="76" width="280" height="20" as="geometry">
+            <mxRectangle width="280" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pSNQC05zAPN-fcuhxzEy-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="pSNQC05zAPN-fcuhxzEy-1" vertex="1">
+          <mxGeometry y="48" width="356.16502463054167" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="pSNQC05zAPN-fcuhxzEy-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="pSNQC05zAPN-fcuhxzEy-5" vertex="1">
+          <mxGeometry width="76" height="26" as="geometry">
+            <mxRectangle width="76" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pSNQC05zAPN-fcuhxzEy-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Mesalina Ramírez&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="pSNQC05zAPN-fcuhxzEy-5" vertex="1">
+          <mxGeometry x="76" width="280" height="26" as="geometry">
+            <mxRectangle width="280" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pSNQC05zAPN-fcuhxzEy-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="pSNQC05zAPN-fcuhxzEy-1" vertex="1">
+          <mxGeometry y="74" width="356.16502463054167" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pSNQC05zAPN-fcuhxzEy-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="pSNQC05zAPN-fcuhxzEy-8" vertex="1">
+          <mxGeometry width="76" height="20" as="geometry">
+            <mxRectangle width="76" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pSNQC05zAPN-fcuhxzEy-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="pSNQC05zAPN-fcuhxzEy-8" vertex="1">
+          <mxGeometry x="76" width="280" height="20" as="geometry">
+            <mxRectangle width="280" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pSNQC05zAPN-fcuhxzEy-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pSNQC05zAPN-fcuhxzEy-11" target="pSNQC05zAPN-fcuhxzEy-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pSNQC05zAPN-fcuhxzEy-11" value="Solictud de aumento y proyecciones" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="351" y="160" width="124" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pSNQC05zAPN-fcuhxzEy-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pSNQC05zAPN-fcuhxzEy-12" target="pSNQC05zAPN-fcuhxzEy-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pSNQC05zAPN-fcuhxzEy-12" value="Si se requiere aumento, la Dirección de Utec Virtual envía un memorándum a la VRA con estadística de alumnos, docentes y personal; se copia a innovación y Tecnología" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="299" y="244" width="228" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pSNQC05zAPN-fcuhxzEy-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pSNQC05zAPN-fcuhxzEy-14" target="pSNQC05zAPN-fcuhxzEy-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pSNQC05zAPN-fcuhxzEy-14" value="Utec Virtual analiza proyecciones de matrícula y posibles nuevas cerreras virtuales para estimar el crecimiento de usuarios" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="322.5" y="357" width="181" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pSNQC05zAPN-fcuhxzEy-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pSNQC05zAPN-fcuhxzEy-16" target="pSNQC05zAPN-fcuhxzEy-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pSNQC05zAPN-fcuhxzEy-16" value="Utec Virtual solicita al proveedor un estimado de pago con base en una cantidad mayor de usuarios" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="334" y="460" width="158" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="pSNQC05zAPN-fcuhxzEy-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pSNQC05zAPN-fcuhxzEy-18" target="pSNQC05zAPN-fcuhxzEy-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pSNQC05zAPN-fcuhxzEy-18" value="Utec Virtual consolida los datos y completa el memorándum con el número toal proyectado de usuarios" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="336" y="565" width="154" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="pSNQC05zAPN-fcuhxzEy-20" value="La VRA traslada información a Rectoría y esta a Presidencia para la autorización correspondiente" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="333.5" y="672" width="159" height="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,100 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="tX8TaKUgU5trIy7vaDfR">
+    <mxGraphModel dx="864" dy="510" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-1" value="Reporte de daños" style="shape=table;startSize=28;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="285" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="6J5OvzZYtfaKpt0M4gvi-1">
+          <mxGeometry y="28" width="285" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="6J5OvzZYtfaKpt0M4gvi-2">
+          <mxGeometry width="62" height="20" as="geometry">
+            <mxRectangle width="62" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ciclo 01-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="6J5OvzZYtfaKpt0M4gvi-2">
+          <mxGeometry x="62" width="223" height="20" as="geometry">
+            <mxRectangle width="223" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="6J5OvzZYtfaKpt0M4gvi-1">
+          <mxGeometry y="48" width="285" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="6J5OvzZYtfaKpt0M4gvi-5">
+          <mxGeometry width="62" height="24" as="geometry">
+            <mxRectangle width="62" height="24" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Mesalina Ramírez&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="6J5OvzZYtfaKpt0M4gvi-5">
+          <mxGeometry x="62" width="223" height="24" as="geometry">
+            <mxRectangle width="223" height="24" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="6J5OvzZYtfaKpt0M4gvi-1">
+          <mxGeometry y="72" width="285" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="6J5OvzZYtfaKpt0M4gvi-8">
+          <mxGeometry width="62" height="20" as="geometry">
+            <mxRectangle width="62" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="6J5OvzZYtfaKpt0M4gvi-8">
+          <mxGeometry x="62" width="223" height="20" as="geometry">
+            <mxRectangle width="223" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6J5OvzZYtfaKpt0M4gvi-11" target="6J5OvzZYtfaKpt0M4gvi-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-11" value="Daños a equipos informáticos, cámaras o micrófonos" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="325" y="172" width="177" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6J5OvzZYtfaKpt0M4gvi-12" target="6J5OvzZYtfaKpt0M4gvi-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-12" value="El área afectada reporta falla a la Dirección de UtecVirtual" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="333" y="262" width="161" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6J5OvzZYtfaKpt0M4gvi-14" target="6J5OvzZYtfaKpt0M4gvi-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-14" value="La Dirección envía el reporte a DIDACTICA Inversiones" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="339" y="350" width="150" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6J5OvzZYtfaKpt0M4gvi-16" target="6J5OvzZYtfaKpt0M4gvi-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-16" value="DIDACTICA confirma envío de técnico para revisión" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="349" y="442" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6J5OvzZYtfaKpt0M4gvi-18" target="6J5OvzZYtfaKpt0M4gvi-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-18" value="El técnico revisa y entrega diagnóstico" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="539" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6J5OvzZYtfaKpt0M4gvi-20" target="6J5OvzZYtfaKpt0M4gvi-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6J5OvzZYtfaKpt0M4gvi-20" target="6J5OvzZYtfaKpt0M4gvi-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-20" value="¿Reparable?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="363.5" y="633" width="101" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-22" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="680" width="29" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-24" value="Informa tiempo de reparación" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="528" y="716" width="120" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="6J5OvzZYtfaKpt0M4gvi-26" value="Se solicita al Departamento de Activo Fijo su retiro y baja del inventario" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="169" y="716" width="173" height="53" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

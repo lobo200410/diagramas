@@ -1,0 +1,73 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="Hpe-3Idqji2FaGnBYh8X">
+    <mxGraphModel dx="1426" dy="841" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CQvsjB9fUt9DyrkLszBP-1" value="Revisión, agenda para toma de videos y elaboración de estadístico" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;fontSize=15;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="27" y="38" width="405" height="102.59999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="CQvsjB9fUt9DyrkLszBP-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="CQvsjB9fUt9DyrkLszBP-1" vertex="1">
+          <mxGeometry y="30" width="405" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CQvsjB9fUt9DyrkLszBP-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="CQvsjB9fUt9DyrkLszBP-2" vertex="1">
+          <mxGeometry width="66" height="26" as="geometry">
+            <mxRectangle width="66" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CQvsjB9fUt9DyrkLszBP-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Ciclo 03-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="CQvsjB9fUt9DyrkLszBP-2" vertex="1">
+          <mxGeometry x="66" width="339" height="26" as="geometry">
+            <mxRectangle width="339" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CQvsjB9fUt9DyrkLszBP-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="CQvsjB9fUt9DyrkLszBP-1" vertex="1">
+          <mxGeometry y="56" width="405" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CQvsjB9fUt9DyrkLszBP-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="CQvsjB9fUt9DyrkLszBP-5" vertex="1">
+          <mxGeometry width="66" height="26" as="geometry">
+            <mxRectangle width="66" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CQvsjB9fUt9DyrkLszBP-7" value="&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;David Segura&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="CQvsjB9fUt9DyrkLszBP-5" vertex="1">
+          <mxGeometry x="66" width="339" height="26" as="geometry">
+            <mxRectangle width="339" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CQvsjB9fUt9DyrkLszBP-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="CQvsjB9fUt9DyrkLszBP-1" vertex="1">
+          <mxGeometry y="82" width="405" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CQvsjB9fUt9DyrkLszBP-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="CQvsjB9fUt9DyrkLszBP-8" vertex="1">
+          <mxGeometry width="66" height="20" as="geometry">
+            <mxRectangle width="66" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CQvsjB9fUt9DyrkLszBP-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="CQvsjB9fUt9DyrkLszBP-8" vertex="1">
+          <mxGeometry x="66" width="339" height="20" as="geometry">
+            <mxRectangle width="339" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CQvsjB9fUt9DyrkLszBP-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CQvsjB9fUt9DyrkLszBP-11" target="CQvsjB9fUt9DyrkLszBP-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CQvsjB9fUt9DyrkLszBP-11" value="Elaboración de estadístico" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="354" y="212" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CQvsjB9fUt9DyrkLszBP-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CQvsjB9fUt9DyrkLszBP-12" target="CQvsjB9fUt9DyrkLszBP-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CQvsjB9fUt9DyrkLszBP-12" value="Haciendo uso del formulario solicitud de edición de video agregar la información en la hoja compartida de word para la elaboración de estadístico. Se coloca la fecha, facultad y cargo, nombre de materia, nombre de docente, nombre de video, escenario que seleccionó, equipo utilizado, entre otros datos que se brindan en la hoja" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="204" y="305" width="420" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="CQvsjB9fUt9DyrkLszBP-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CQvsjB9fUt9DyrkLszBP-14" target="CQvsjB9fUt9DyrkLszBP-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CQvsjB9fUt9DyrkLszBP-14" value="El área de diseño ingresa con credenciales administrativas al canal de youtube para obtener el enlace del video" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="276" y="436" width="275" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="CQvsjB9fUt9DyrkLszBP-16" value="Se envía por correo electrónico el estadístico a la dirección de educación virtual, se enviará de forma mensual" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="293.5" y="524.5" width="241" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

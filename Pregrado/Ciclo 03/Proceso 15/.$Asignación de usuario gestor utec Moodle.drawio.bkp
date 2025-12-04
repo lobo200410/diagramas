@@ -1,0 +1,127 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="x8mAN-xhyynOf6mnerNl">
+    <mxGraphModel dx="1678" dy="989" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-1" value="Asignación de usuario gestor utec Moodle" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="30" y="18" width="254" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="nG4wR3UToRIBh0KsuIuJ-1">
+          <mxGeometry y="30" width="254" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="nG4wR3UToRIBh0KsuIuJ-2">
+          <mxGeometry width="68" height="26" as="geometry">
+            <mxRectangle width="68" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ciclo 01-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="nG4wR3UToRIBh0KsuIuJ-2">
+          <mxGeometry x="68" width="186" height="26" as="geometry">
+            <mxRectangle width="186" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="nG4wR3UToRIBh0KsuIuJ-1">
+          <mxGeometry y="56" width="254" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="nG4wR3UToRIBh0KsuIuJ-5">
+          <mxGeometry width="68" height="26" as="geometry">
+            <mxRectangle width="68" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Juan Santos y René Cruz&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="nG4wR3UToRIBh0KsuIuJ-5">
+          <mxGeometry x="68" width="186" height="26" as="geometry">
+            <mxRectangle width="186" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="nG4wR3UToRIBh0KsuIuJ-1">
+          <mxGeometry y="82" width="254" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="nG4wR3UToRIBh0KsuIuJ-8">
+          <mxGeometry width="68" height="20" as="geometry">
+            <mxRectangle width="68" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="nG4wR3UToRIBh0KsuIuJ-8">
+          <mxGeometry x="68" width="186" height="20" as="geometry">
+            <mxRectangle width="186" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG4wR3UToRIBh0KsuIuJ-11" target="nG4wR3UToRIBh0KsuIuJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-11" value="Asignación de usuario gestor utec" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="339" y="176" width="149" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG4wR3UToRIBh0KsuIuJ-12" target="nG4wR3UToRIBh0KsuIuJ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-12" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;El área técnica verfica que en la base de datos se encuentre creado el usuario gestor (tabla edutec_usuario&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="258" width="181" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG4wR3UToRIBh0KsuIuJ-16" target="nG4wR3UToRIBh0KsuIuJ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nG4wR3UToRIBh0KsuIuJ-16" target="nG4wR3UToRIBh0KsuIuJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-16" value="¿existe?" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="373" y="359" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-18" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="442" y="401" width="29" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="nG4wR3UToRIBh0KsuIuJ-20" target="nG4wR3UToRIBh0KsuIuJ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-20" value="Validar que el usuario gestor se encuentre creado en el Moodle correspondiente para la categoría o facultad que será asignado" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="492" y="444" width="264" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="nG4wR3UToRIBh0KsuIuJ-22" target="nG4wR3UToRIBh0KsuIuJ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-22" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Ingresar con credenciales de administrador del sitio en Moodle para cada una de las facultades&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="517" y="546" width="214" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="nG4wR3UToRIBh0KsuIuJ-24" target="nG4wR3UToRIBh0KsuIuJ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-24" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Identificar categoría a la que se le darán permisos de visualización como gestor ruta: Administración del sitio/cursos/Administrar cursos y categorías/Buscar correspondiente&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490.75" y="641" width="266.5" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="nG4wR3UToRIBh0KsuIuJ-26" target="nG4wR3UToRIBh0KsuIuJ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-26" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Seleccionar y dar permiso ruta: Categoría seleccionada/Más/Permisos/Seleccionar asignar roles/Gestor/Buscar gestor en usuarios potenciales/Seleccionarlo/Añadirlo a usuarios existenes&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="499" y="764" width="250" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG4wR3UToRIBh0KsuIuJ-28" target="nG4wR3UToRIBh0KsuIuJ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-28" value="Corroborar el ingreso desde Utec Virtual" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="546" y="886" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG4wR3UToRIBh0KsuIuJ-30" target="nG4wR3UToRIBh0KsuIuJ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-30" value="¿Ingresa?" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="579" y="977" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-32" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Seleecionar facultad y acceder a moodle posteriormente ingresas las rutas correspondientes&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="686" y="1066" width="127" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-34" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="657" y="1018" width="29" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-35" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="556" y="1018" width="36" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.565;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nG4wR3UToRIBh0KsuIuJ-30" target="nG4wR3UToRIBh0KsuIuJ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG4wR3UToRIBh0KsuIuJ-44" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="398" width="36" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

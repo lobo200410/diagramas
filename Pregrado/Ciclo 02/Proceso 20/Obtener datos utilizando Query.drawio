@@ -1,0 +1,129 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="FB5KTRsirFkHnwMPPMCR">
+    <mxGraphModel dx="1426" dy="841" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TzcNbItuyVRZzOonNEv--1" value="Elaboración de cuadro de tiempos de navegación" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="28" y="20" width="297" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="TzcNbItuyVRZzOonNEv--1" vertex="1">
+          <mxGeometry y="30" width="297" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="TzcNbItuyVRZzOonNEv--2" vertex="1">
+          <mxGeometry width="71" height="21" as="geometry">
+            <mxRectangle width="71" height="21" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ciclo 02-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="TzcNbItuyVRZzOonNEv--2" vertex="1">
+          <mxGeometry x="71" width="226" height="21" as="geometry">
+            <mxRectangle width="226" height="21" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="TzcNbItuyVRZzOonNEv--1" vertex="1">
+          <mxGeometry y="51" width="297" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="TzcNbItuyVRZzOonNEv--5" vertex="1">
+          <mxGeometry width="71" height="26" as="geometry">
+            <mxRectangle width="71" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Luis Lemus y Mauricio Chinchilla&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="TzcNbItuyVRZzOonNEv--5" vertex="1">
+          <mxGeometry x="71" width="226" height="26" as="geometry">
+            <mxRectangle width="226" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="TzcNbItuyVRZzOonNEv--1" vertex="1">
+          <mxGeometry y="77" width="297" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="TzcNbItuyVRZzOonNEv--8" vertex="1">
+          <mxGeometry width="71" height="20" as="geometry">
+            <mxRectangle width="71" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="TzcNbItuyVRZzOonNEv--8" vertex="1">
+          <mxGeometry x="71" width="226" height="20" as="geometry">
+            <mxRectangle width="226" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="TzcNbItuyVRZzOonNEv--11" target="TzcNbItuyVRZzOonNEv--13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--11" value="Obtener datos utilizando Query" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="341.5" y="127" width="143" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="TzcNbItuyVRZzOonNEv--13" target="TzcNbItuyVRZzOonNEv--15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--13" value="Al inicio de mes el área técnica verifica y configura el query con el mes a obtener datos de navegación de los docentes virtuales, también se configura con las fechas excluidas (vacación de semna santa, agosto)" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="278.5" y="196" width="268" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="TzcNbItuyVRZzOonNEv--15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="412.98275862068976" y="385.01515725653655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--15" value="En el caso de los reportes semanal cada lunes se ejecuta el query para obtener datos hasta el domingo dicho dato se envía por correo al personal que realiza los tiempos de navegación" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="288.5" y="291" width="249" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="TzcNbItuyVRZzOonNEv--19" target="TzcNbItuyVRZzOonNEv--24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--19" value="Se ejecuta el día hábil siguiente para obtener los datos del mes completo, posteriormente es remitido al personal de planilla" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="385" width="166" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="TzcNbItuyVRZzOonNEv--24" target="TzcNbItuyVRZzOonNEv--26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--24" value="Se descarga el archivo en formato Excel CSV con los datos de navegación para efecto de organizarlos" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="343.25" y="472" width="139.5" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="TzcNbItuyVRZzOonNEv--26" target="TzcNbItuyVRZzOonNEv--28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--26" value="Se abre el archivo CSV en Excel y se configura en columnas de acuero con el separador de listas de Excel" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="332.5" y="564" width="161" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="TzcNbItuyVRZzOonNEv--28" target="TzcNbItuyVRZzOonNEv--30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--28" value="Se crea una tabla dinámica utilizando los campos&amp;nbsp; USER_COURSE,FIRST_NAME,LAST_NAME,&lt;div&gt;COURSE_NUMBER;en filas // NCLICK, NTIME;valores // RECURSO; en Columnas&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="291" y="648" width="244" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TzcNbItuyVRZzOonNEv--30" target="TzcNbItuyVRZzOonNEv--32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--30" value="Se configura la tabla dinámica con las siguientes características: No mostrar subtotales, Desactivar Totales generales para filas y columnas y sus registros a una hoja nueva donde debe pegarse solo valores" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="292.5" y="739" width="240.25" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TzcNbItuyVRZzOonNEv--32" target="TzcNbItuyVRZzOonNEv--34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--32" value="Hacer una copia de los encabezados de columna y sus registros a una hoja donde pegarse solo valores" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="341" y="833" width="143" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TzcNbItuyVRZzOonNEv--34" target="TzcNbItuyVRZzOonNEv--36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--34" value="En la nueva hoja, después de la ultima columna agregar un encabezado tiempo" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="339" y="911" width="148" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TzcNbItuyVRZzOonNEv--36" target="TzcNbItuyVRZzOonNEv--38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--36" value="Agregar una formula que redondee y muestre el máximpo de tiempo de cada registro (=redondear(max(rango de tiempo);0)) para los datos obtenidos con la fomula convertirlos a valores" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="253" y="979" width="320" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TzcNbItuyVRZzOonNEv--38" target="TzcNbItuyVRZzOonNEv--40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--38" value="Hacer una copia de esta hoja en un libro nuevo de Excel y guardarlo con un nombre indique hasta que fecha son los tiempos" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="294.75" y="1050" width="238" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="TzcNbItuyVRZzOonNEv--40" value="Enviar este último archivo al encargado de crear el registro de tiempos" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="339" y="1117" width="150" height="44" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

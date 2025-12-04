@@ -1,0 +1,103 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="XaxvM5d9XTzH34z3OYsm">
+    <mxGraphModel dx="1426" dy="841" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yv0mclpjK7RALu4_3FSk-1" value="Agregar pruebas diagnósticas Moodle" style="shape=table;startSize=34;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="363" height="111.75" as="geometry" />
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="yv0mclpjK7RALu4_3FSk-1">
+          <mxGeometry y="34" width="363" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="yv0mclpjK7RALu4_3FSk-2">
+          <mxGeometry width="65" height="27" as="geometry">
+            <mxRectangle width="65" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Ciclo 01-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="yv0mclpjK7RALu4_3FSk-2">
+          <mxGeometry x="65" width="298" height="27" as="geometry">
+            <mxRectangle width="298" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="yv0mclpjK7RALu4_3FSk-1">
+          <mxGeometry y="61" width="363" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="yv0mclpjK7RALu4_3FSk-5">
+          <mxGeometry width="65" height="31" as="geometry">
+            <mxRectangle width="65" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-7" value="Mauricio Chinchilla y René Cruz" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="yv0mclpjK7RALu4_3FSk-5">
+          <mxGeometry x="65" width="298" height="31" as="geometry">
+            <mxRectangle width="298" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="yv0mclpjK7RALu4_3FSk-1">
+          <mxGeometry y="92" width="363" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="yv0mclpjK7RALu4_3FSk-8">
+          <mxGeometry width="65" height="20" as="geometry">
+            <mxRectangle width="65" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="yv0mclpjK7RALu4_3FSk-8">
+          <mxGeometry x="65" width="298" height="20" as="geometry">
+            <mxRectangle width="298" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yv0mclpjK7RALu4_3FSk-11" target="yv0mclpjK7RALu4_3FSk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-11" value="Importación de pruebas diagósticas en Moodle" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="331" y="190" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yv0mclpjK7RALu4_3FSk-12" target="yv0mclpjK7RALu4_3FSk-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-12" value="El área técnica ingresa con credenciales de administrador en la plataforma utec virtual" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="307" y="296" width="214" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yv0mclpjK7RALu4_3FSk-14" target="yv0mclpjK7RALu4_3FSk-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-14" value="En el selector escoger la opción &quot;FACS-FADD-SETACO-CURSOS LIBRES&quot;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="319" y="402" width="189" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yv0mclpjK7RALu4_3FSk-16" target="yv0mclpjK7RALu4_3FSk-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-16" value="Ir a la siguiente ruta: Administración del sitio/Cursos/Administrar cursos y categorías/SETACO/Año/Ciclo correspondiente/Facultad correspondiente" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="277" y="508" width="273" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yv0mclpjK7RALu4_3FSk-18" target="yv0mclpjK7RALu4_3FSk-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-18" value="Seleccionar el aula e ir a :Más/Reutilización del curso" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335.5" y="636" width="157" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yv0mclpjK7RALu4_3FSk-20" target="yv0mclpjK7RALu4_3FSk-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-20" value="Buscar la plantilla por su nombre corto según sea la facultad" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="331" y="745" width="165" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yv0mclpjK7RALu4_3FSk-22" target="yv0mclpjK7RALu4_3FSk-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-22" value="Seleccionar la facultad y marcar lo siguiente: Incluir actividades y recursos/bloques/archivos/banco de preguntas" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="869" width="227" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yv0mclpjK7RALu4_3FSk-24" target="yv0mclpjK7RALu4_3FSk-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-24" value="Seleccionar unicamente la casilla de pruebas diganósticas" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="331" y="1003" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv0mclpjK7RALu4_3FSk-26" value="Verificar que el contenido esté oculto al estudiante" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="344" y="1093" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

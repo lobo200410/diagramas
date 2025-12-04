@@ -1,0 +1,85 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="EELk4TeMHjmmFOSwUk9S">
+    <mxGraphModel dx="1426" dy="841" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0q7ewEiP0P5C8cfL07Mu-1" value="Revisión en portal educativo de tiempos externos" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="28" y="20" width="297" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="0q7ewEiP0P5C8cfL07Mu-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="0q7ewEiP0P5C8cfL07Mu-1" vertex="1">
+          <mxGeometry y="30" width="297" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="0q7ewEiP0P5C8cfL07Mu-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="0q7ewEiP0P5C8cfL07Mu-2" vertex="1">
+          <mxGeometry width="71" height="21" as="geometry">
+            <mxRectangle width="71" height="21" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0q7ewEiP0P5C8cfL07Mu-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ciclo 03-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="0q7ewEiP0P5C8cfL07Mu-2" vertex="1">
+          <mxGeometry x="71" width="226" height="21" as="geometry">
+            <mxRectangle width="226" height="21" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0q7ewEiP0P5C8cfL07Mu-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="0q7ewEiP0P5C8cfL07Mu-1" vertex="1">
+          <mxGeometry y="51" width="297" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="0q7ewEiP0P5C8cfL07Mu-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="0q7ewEiP0P5C8cfL07Mu-5" vertex="1">
+          <mxGeometry width="71" height="26" as="geometry">
+            <mxRectangle width="71" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0q7ewEiP0P5C8cfL07Mu-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Luis Lemus y Mauricio Chinchilla&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="0q7ewEiP0P5C8cfL07Mu-5" vertex="1">
+          <mxGeometry x="71" width="226" height="26" as="geometry">
+            <mxRectangle width="226" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0q7ewEiP0P5C8cfL07Mu-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="0q7ewEiP0P5C8cfL07Mu-1" vertex="1">
+          <mxGeometry y="77" width="297" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0q7ewEiP0P5C8cfL07Mu-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="0q7ewEiP0P5C8cfL07Mu-8" vertex="1">
+          <mxGeometry width="71" height="20" as="geometry">
+            <mxRectangle width="71" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0q7ewEiP0P5C8cfL07Mu-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="0q7ewEiP0P5C8cfL07Mu-8" vertex="1">
+          <mxGeometry x="71" width="226" height="20" as="geometry">
+            <mxRectangle width="226" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0q7ewEiP0P5C8cfL07Mu-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0q7ewEiP0P5C8cfL07Mu-11" target="0q7ewEiP0P5C8cfL07Mu-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0q7ewEiP0P5C8cfL07Mu-11" value="Revisión de los tiempos de navegación externo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="348" y="177" width="120" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="0q7ewEiP0P5C8cfL07Mu-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0q7ewEiP0P5C8cfL07Mu-12" target="0q7ewEiP0P5C8cfL07Mu-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0q7ewEiP0P5C8cfL07Mu-12" value="El encargado de los tiempos ingresa con credenciales administrativas al portal empresarial" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="336.5" y="254" width="143" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="0q7ewEiP0P5C8cfL07Mu-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0q7ewEiP0P5C8cfL07Mu-14" target="0q7ewEiP0P5C8cfL07Mu-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0q7ewEiP0P5C8cfL07Mu-14" value="Se revisa en el apartado de Registro académico/Educación Virtual/Resumen de navegación externa" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="329.25" y="340" width="157.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0q7ewEiP0P5C8cfL07Mu-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0q7ewEiP0P5C8cfL07Mu-16" target="0q7ewEiP0P5C8cfL07Mu-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0q7ewEiP0P5C8cfL07Mu-16" value="Se revisa los tiempos externos de la semana correspondiente" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="353" y="429" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0q7ewEiP0P5C8cfL07Mu-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0q7ewEiP0P5C8cfL07Mu-18" target="0q7ewEiP0P5C8cfL07Mu-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0q7ewEiP0P5C8cfL07Mu-18" value="Los tiempos externos se trasladan al archivo de la hoja de Excel el cual se suma con los tiempos de navegación que ha relizado en el aula virtual" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="316.5" y="520" width="183" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="0q7ewEiP0P5C8cfL07Mu-20" value="El archivo acumulado semanal, se remite a la Dirección de Educación Virtual" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="348" y="615" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

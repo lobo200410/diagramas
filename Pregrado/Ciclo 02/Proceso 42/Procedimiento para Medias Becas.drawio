@@ -1,0 +1,115 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="nuY4ycpt7JOW6rwk6Opr">
+    <mxGraphModel dx="1426" dy="841" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SbMYWupxlh5NdT7MiLat-1" value="Reclutamiento de personal en Horas sociales y medias becas" style="shape=table;startSize=28;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="40" y="20" width="348" height="91.48275862068962" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="SbMYWupxlh5NdT7MiLat-1" vertex="1">
+          <mxGeometry y="28" width="348" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="SbMYWupxlh5NdT7MiLat-2" vertex="1">
+          <mxGeometry width="75" height="20" as="geometry">
+            <mxRectangle width="75" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ciclo 02-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="SbMYWupxlh5NdT7MiLat-2" vertex="1">
+          <mxGeometry x="75" width="273" height="20" as="geometry">
+            <mxRectangle width="273" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="SbMYWupxlh5NdT7MiLat-1" vertex="1">
+          <mxGeometry y="48" width="348" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="SbMYWupxlh5NdT7MiLat-5" vertex="1">
+          <mxGeometry width="75" height="23" as="geometry">
+            <mxRectangle width="75" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Mesalina Ramírez y Fátima Hernández&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="SbMYWupxlh5NdT7MiLat-5" vertex="1">
+          <mxGeometry x="75" width="273" height="23" as="geometry">
+            <mxRectangle width="273" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="SbMYWupxlh5NdT7MiLat-1" vertex="1">
+          <mxGeometry y="71" width="348" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="SbMYWupxlh5NdT7MiLat-8" vertex="1">
+          <mxGeometry width="75" height="20" as="geometry">
+            <mxRectangle width="75" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="SbMYWupxlh5NdT7MiLat-8" vertex="1">
+          <mxGeometry x="75" width="273" height="20" as="geometry">
+            <mxRectangle width="273" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SbMYWupxlh5NdT7MiLat-21" target="SbMYWupxlh5NdT7MiLat-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-21" value="Procedimiento para Medias Becas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="354" y="179" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SbMYWupxlh5NdT7MiLat-22" target="SbMYWupxlh5NdT7MiLat-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-22" value="La dirección de UtecVirtual solicita al Decanato de Estudiantes apoyo mediante estudiantes con media beca" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="324" y="268" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SbMYWupxlh5NdT7MiLat-24" target="SbMYWupxlh5NdT7MiLat-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-24" value="El personal encargado selecciona 2 estudiantes previamente destacados en servicio social, con CUM&amp;nbsp; ≥ 8.0 e identificando con las labores de la Dirección" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="299" y="367" width="229" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SbMYWupxlh5NdT7MiLat-26" target="SbMYWupxlh5NdT7MiLat-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-26" value="Se reúne con los candidatos para explicar compromisos y proceso de gestión" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="337" y="479" width="153" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SbMYWupxlh5NdT7MiLat-28" target="SbMYWupxlh5NdT7MiLat-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-28" value="Al aprobarse las medias becas, el Decanato es informado sobre los estudiantes asignados" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="314" y="578" width="200" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SbMYWupxlh5NdT7MiLat-30" target="SbMYWupxlh5NdT7MiLat-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-30" value="Los estudiantes deben presentarse al Decanato para completar formulario y entregar documentos requeridos" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="307" y="658" width="213" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SbMYWupxlh5NdT7MiLat-32" target="SbMYWupxlh5NdT7MiLat-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-32" value="La dirección se reúne con los becarios para explicar beneficios, responsabilidades y expectativas" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="309" y="749" width="210" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SbMYWupxlh5NdT7MiLat-34" target="SbMYWupxlh5NdT7MiLat-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-34" value="Al iniciar el ciclo, el personal asigna horarios y funciones según las materias del estudiante" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="316" y="831" width="195" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SbMYWupxlh5NdT7MiLat-36" target="SbMYWupxlh5NdT7MiLat-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-36" value="Mantienen la media beca si tiene CUM&amp;nbsp; ≥ 8.0 y buen desempeño" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="333" y="924" width="161" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SbMYWupxlh5NdT7MiLat-38" target="SbMYWupxlh5NdT7MiLat-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-38" value="Si renuncian o incumplen, se informa al decanato para sustituir" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="327" y="1008" width="173" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="SbMYWupxlh5NdT7MiLat-40" value="La dirección registra y archiva toda la gestión" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="342.5" y="1093" width="143" height="48" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

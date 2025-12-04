@@ -1,0 +1,79 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="wNUaj7TCEXaNC6JsUNrb">
+    <mxGraphModel dx="1426" dy="841" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Zxl_7bMvVsd8tBrGoeSz-1" value="Administración de Heyzine y estadístico de uso" style="shape=table;startSize=28;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="33" y="40" width="381" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="Zxl_7bMvVsd8tBrGoeSz-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="Zxl_7bMvVsd8tBrGoeSz-1" vertex="1">
+          <mxGeometry y="28" width="381" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zxl_7bMvVsd8tBrGoeSz-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="Zxl_7bMvVsd8tBrGoeSz-2" vertex="1">
+          <mxGeometry width="83" height="20" as="geometry">
+            <mxRectangle width="83" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zxl_7bMvVsd8tBrGoeSz-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ciclo 02-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="Zxl_7bMvVsd8tBrGoeSz-2" vertex="1">
+          <mxGeometry x="83" width="298" height="20" as="geometry">
+            <mxRectangle width="298" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zxl_7bMvVsd8tBrGoeSz-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="Zxl_7bMvVsd8tBrGoeSz-1" vertex="1">
+          <mxGeometry y="48" width="381" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Zxl_7bMvVsd8tBrGoeSz-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="Zxl_7bMvVsd8tBrGoeSz-5" vertex="1">
+          <mxGeometry width="83" height="24" as="geometry">
+            <mxRectangle width="83" height="24" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zxl_7bMvVsd8tBrGoeSz-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Luis Lemus y Fátima Hernádez&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="Zxl_7bMvVsd8tBrGoeSz-5" vertex="1">
+          <mxGeometry x="83" width="298" height="24" as="geometry">
+            <mxRectangle width="298" height="24" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zxl_7bMvVsd8tBrGoeSz-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="Zxl_7bMvVsd8tBrGoeSz-1" vertex="1">
+          <mxGeometry y="72" width="381" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zxl_7bMvVsd8tBrGoeSz-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="Zxl_7bMvVsd8tBrGoeSz-8" vertex="1">
+          <mxGeometry width="83" height="20" as="geometry">
+            <mxRectangle width="83" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zxl_7bMvVsd8tBrGoeSz-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="Zxl_7bMvVsd8tBrGoeSz-8" vertex="1">
+          <mxGeometry x="83" width="298" height="20" as="geometry">
+            <mxRectangle width="298" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zxl_7bMvVsd8tBrGoeSz-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Zxl_7bMvVsd8tBrGoeSz-11" target="Zxl_7bMvVsd8tBrGoeSz-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zxl_7bMvVsd8tBrGoeSz-11" value="Administración de Heyzine y estadístico de uso" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="353" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zxl_7bMvVsd8tBrGoeSz-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Zxl_7bMvVsd8tBrGoeSz-12" target="Zxl_7bMvVsd8tBrGoeSz-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zxl_7bMvVsd8tBrGoeSz-12" value="El área técnica recibe del docente la solicitud para convertir un archivo PDF en Flipbook, junto con el archivo adjunto enviado por correo" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="299" y="310" width="228" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="Zxl_7bMvVsd8tBrGoeSz-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Zxl_7bMvVsd8tBrGoeSz-14" target="Zxl_7bMvVsd8tBrGoeSz-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zxl_7bMvVsd8tBrGoeSz-14" value="El área ténica ingresa a la plataforma Heyzine con credenciales de administrador" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="322" y="409" width="183" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="Zxl_7bMvVsd8tBrGoeSz-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Zxl_7bMvVsd8tBrGoeSz-16" target="Zxl_7bMvVsd8tBrGoeSz-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zxl_7bMvVsd8tBrGoeSz-16" value="Se realiza la conversión: Seleccionar &quot;Nuevo Flipbook&quot;, subir el pdf enviado por el docente, configurar el título, el efecto de página y luego guardar el proyecto" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="292.25" y="492" width="242.5" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="Zxl_7bMvVsd8tBrGoeSz-18" value="Finalmente, el área técnica genera el enlace público del Flipbook y lo comparte con el docente que hizo la solicitud" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="307" y="606" width="212" height="68" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

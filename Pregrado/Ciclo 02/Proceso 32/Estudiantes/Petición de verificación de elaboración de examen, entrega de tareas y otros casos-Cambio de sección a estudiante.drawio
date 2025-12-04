@@ -1,0 +1,97 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="1vCbq7LYaIoskfpdpXD0">
+    <mxGraphModel dx="1426" dy="841" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p5SbX3MceCPkhvwgqU58-21" value="Petición de verificación de elaboración de examen, entrega de tareas y otros casos" style="shape=table;startSize=28;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=15;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="20" y="30" width="498.6970443349751" height="90.61206896551734" as="geometry" />
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-22" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="p5SbX3MceCPkhvwgqU58-21" vertex="1">
+          <mxGeometry y="28" width="498.6970443349751" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Detalle&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="p5SbX3MceCPkhvwgqU58-22" vertex="1">
+          <mxGeometry width="76" height="20" as="geometry">
+            <mxRectangle width="76" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ciclo 02-2025&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="p5SbX3MceCPkhvwgqU58-22" vertex="1">
+          <mxGeometry x="76" width="423" height="20" as="geometry">
+            <mxRectangle width="423" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-25" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="p5SbX3MceCPkhvwgqU58-21" vertex="1">
+          <mxGeometry y="48" width="498.6970443349751" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Encargado&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="p5SbX3MceCPkhvwgqU58-25" vertex="1">
+          <mxGeometry width="76" height="21" as="geometry">
+            <mxRectangle width="76" height="21" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-27" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Juan José, Mauricio Chinchilla y René Cruz&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="p5SbX3MceCPkhvwgqU58-25" vertex="1">
+          <mxGeometry x="76" width="423" height="21" as="geometry">
+            <mxRectangle width="423" height="21" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-28" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="p5SbX3MceCPkhvwgqU58-21" vertex="1">
+          <mxGeometry y="69" width="498.6970443349751" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-29" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="p5SbX3MceCPkhvwgqU58-28" vertex="1">
+          <mxGeometry width="76" height="20" as="geometry">
+            <mxRectangle width="76" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-30" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Times New Roman;" parent="p5SbX3MceCPkhvwgqU58-28" vertex="1">
+          <mxGeometry x="76" width="423" height="20" as="geometry">
+            <mxRectangle width="423" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p5SbX3MceCPkhvwgqU58-32" target="p5SbX3MceCPkhvwgqU58-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-32" value="Cambio de sección a estudiante" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="325" y="168" width="161" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p5SbX3MceCPkhvwgqU58-34" target="p5SbX3MceCPkhvwgqU58-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-34" value="El área técnica se dirige al portal empresarial e ingresa con credenciales administrativas" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="310.25" y="241" width="190.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p5SbX3MceCPkhvwgqU58-36" target="p5SbX3MceCPkhvwgqU58-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-36" value="Se rigite a la siguiente ruta:Registro académico/Educación Virtual/Materias inscritas por alumno/Seleccionar el ciclo correspondiente e ingresar el carné sin guiones/Verificar sus respectivas materias con la sección correspondiente" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="245.5" y="317" width="320" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p5SbX3MceCPkhvwgqU58-38" target="p5SbX3MceCPkhvwgqU58-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-38" value="El área técnica ingresa a Blackboard con credenciales administrativas" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="329" y="418" width="153" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p5SbX3MceCPkhvwgqU58-40" target="p5SbX3MceCPkhvwgqU58-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-40" value="Ingresa y sigue la ruta: Administrador/Usuarios/Filtrar por nombre de usuario/introducir carnet sin guiones/Desplegar flecha hacia abajo/Inscripciones del curso" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="254" y="508" width="303" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p5SbX3MceCPkhvwgqU58-42" target="p5SbX3MceCPkhvwgqU58-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-42" value="Verificar cual es el curso en el que está inscrito incorrectamente&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="333.75" y="599" width="143.5" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p5SbX3MceCPkhvwgqU58-44" target="p5SbX3MceCPkhvwgqU58-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-44" value="Quitar el acceso dándole de baja de ese curso y matricular en curso correcto" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="676" width="151.5" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="p5SbX3MceCPkhvwgqU58-45" value="Administrador/Cursos/Buscar el curso correcto del estudiante/Ingresar al curso/Lista/Seleccionar el botón con un signo &quot;más&quot;/en la parte superior derecha/Inscribir personas/Digitar el carnet sin guiones/rol &quot;estudiante&quot;/Guardar" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Times New Roman;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="228.13" y="764" width="355.25" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
